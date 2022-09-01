@@ -11,9 +11,17 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+       
     }
-
-
+var hakan = 2
+    
+    
+    
+    
+    
+    
 }
 
+print("git")
+
+haka
