@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 var hakan = 2
 var semih = 3
     var hakan1 = 5
+    var hakan2 = 6
     
 }
 
