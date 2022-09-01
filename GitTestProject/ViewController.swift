@@ -11,17 +11,18 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-       
+       print(hakan)
+        
     }
 var hakan = 2
+ var semih = 3
     
     
     
-    
+
     
     
 }
 
-print("git")
 
-haka
+
